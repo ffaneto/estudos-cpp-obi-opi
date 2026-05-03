@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/francisco/eclipse-workspace/hamud/build/cmake.run.linux.x86_64.Local",
+  "command": "/usr/bin/g++ -I/home/francisco/eclipse-workspace/hamud/build/cmake.run.linux.x86_64.Local -O3 -DNDEBUG -o CMakeFiles/hamud.dir/hamud.cpp.o -c /home/francisco/eclipse-workspace/hamud/hamud.cpp",
+  "file": "/home/francisco/eclipse-workspace/hamud/hamud.cpp",
+  "output": "/home/francisco/eclipse-workspace/hamud/build/cmake.run.linux.x86_64.Local/CMakeFiles/hamud.dir/hamud.cpp.o"
+}
+]

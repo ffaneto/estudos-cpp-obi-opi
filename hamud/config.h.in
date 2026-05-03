@@ -1,0 +1,2 @@
+#define hamud_VERSION_MAJOR @hamud_VERSION_MAJOR@
+#define hamud_VERSION_MINOR @hamud_VERSION_MINOR@
