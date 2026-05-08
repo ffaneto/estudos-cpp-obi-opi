@@ -7,7 +7,7 @@ int main () {
 
     vector <int> apostas(6);
 
-    int corretas_check[100] = {0};
+    vector <int> corretas_check(100,0);
 
     int cont = 0;
 
