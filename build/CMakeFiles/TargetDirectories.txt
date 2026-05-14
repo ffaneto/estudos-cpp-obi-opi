@@ -1,0 +1,3 @@
+/home/chico/Downloads/estudos-cpp-obi-opi/build/CMakeFiles/hamud.dir
+/home/chico/Downloads/estudos-cpp-obi-opi/build/CMakeFiles/edit_cache.dir
+/home/chico/Downloads/estudos-cpp-obi-opi/build/CMakeFiles/rebuild_cache.dir

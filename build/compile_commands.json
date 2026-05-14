@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/chico/Downloads/estudos-cpp-obi-opi/build",
+  "command": "/usr/bin/g++ -I/home/chico/Downloads/estudos-cpp-obi-opi/build -g -o CMakeFiles/hamud.dir/hamud.cpp.o -c /home/chico/Downloads/estudos-cpp-obi-opi/hamud/hamud.cpp",
+  "file": "/home/chico/Downloads/estudos-cpp-obi-opi/hamud/hamud.cpp",
+  "output": "/home/chico/Downloads/estudos-cpp-obi-opi/build/CMakeFiles/hamud.dir/hamud.cpp.o"
+}
+]
